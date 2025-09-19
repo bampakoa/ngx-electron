@@ -1,6 +1,6 @@
 {
   "name": "core",
-  "version": "20.0.1",
+  "version": "20.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -36,7 +36,7 @@
     "@angular/cli": "^20.1.6",
     "@angular/compiler-cli": "^20.1.7",
     "@types/jasmine": "~5.1.0",
-    "electron": "^37.3.1",
+    "electron": "^38.1.2",
     "jasmine-core": "~5.8.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
