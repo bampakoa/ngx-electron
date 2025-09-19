@@ -23,7 +23,7 @@ You can pass the following options either in the `angular.json` file or when run
 * `devTools`: setting this to true will automatically open the Chrome developer tools. By default this is set to `false`.
 * `allowIntegration`: setting this to true will enable Electron integration through the [ngx-electronyzer](https://www.npmjs.com/package/ngx-electronyzer) library. By default this is set to `false`.
 
- <img src="https://github.com/bampakoa/ngx-electronify/blob/master/demo.gif?raw=true" alt="Demo" />
+ <img src="https://github.com/bampakoa/ngx-electron/blob/master/demo.gif?raw=true" alt="Demo" />
 
 ## 🧩 Angular DevTools
 

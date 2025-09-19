@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="logo.png" alt="Ngx-electronify" />
+  <img src="logo.png" alt="Ngx-electron" />
 </p>
 
-<h1 align="center">Welcome to ngx-electronify 👋</h1>
+<h1 align="center">Welcome to ngx-electron 👋</h1>
 
 > A suite of Electron tools for the Angular framework
 
-**Ngx-electronify** is a collection of utilities that add desktop capabilities to Angular applications using Electron. It consists of the following:
+**Ngx-electron** is a collection of utilities that add desktop capabilities to Angular applications using Electron. It consists of the following:
 
-- An [Angular CLI builder](packages/builder) that integrates into your development workflow and runs your application in the desktop.
+- [ngx-electronify](packages/builder): An Angular CLI builder that integrates into your development workflow and runs your application in the desktop.
 - [ngx-electronyzer](packages/core/projects/electron): An Angular library that exposes the Electron API to your application. 
 
 ## Author
@@ -20,7 +20,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bampakoa/ngx-electronify/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bampakoa/ngx-electron/issues). 
 
 ## Show your support
 

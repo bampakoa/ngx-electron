@@ -7,9 +7,9 @@
     "electron"
   ],
   "bugs": {
-    "url": "https://github.com/bampakoa/ngx-electronify/issues"
+    "url": "https://github.com/bampakoa/ngx-electron/issues"
   },
-  "homepage": "https://github.com/bampakoa/ngx-electronify/tree/master/packages/core/projects/electron#readme",
+  "homepage": "https://github.com/bampakoa/ngx-electron/tree/master/packages/core/projects/electron#readme",
   "peerDependencies": {
     "@angular/common": "^20.0.0",
     "@angular/core": "^20.0.0",
