@@ -2,6 +2,16 @@ name: Bug report
 description: Create a report to help us improve
 labels: [bug]
 body:
+  - type: dropdown
+    id: package
+    attributes:
+      label: Package
+      multiple: false
+      options:
+        - ngx-electronify
+        - ngx-electronyzer
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:

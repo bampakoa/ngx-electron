@@ -2,6 +2,16 @@ name: Feature request
 description: Suggest an idea for this project
 labels: [enhancement]
 body:
+  - type: dropdown
+    id: package
+    attributes:
+      label: Package
+      multiple: false
+      options:
+        - ngx-electronify
+        - ngx-electronyzer
+    validations:
+      required: true
   - type: textarea
     id: problem-related
     attributes:
