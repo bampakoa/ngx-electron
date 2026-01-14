@@ -25,8 +25,8 @@
           "defaultConfiguration": "production"
         },
         "test": {
-          "builder": "@angular/build:karma",
-          "options": {
+          "builder": "@angular/build:unit-test",
+           "options": {
             "tsConfig": "projects/electron/tsconfig.spec.json"
           }
         }
