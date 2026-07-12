@@ -1,6 +1,6 @@
 {
   "name": "core",
-  "version": "21.3.0",
+  "version": "21.4.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -37,7 +37,7 @@
     "@angular/cli": "^21.0.5",
     "@angular/compiler-cli": "^21.0.8",
     "@types/jasmine": "~5.1.0",
-    "electron": "^42.0.0",
+    "electron": "^43.0.0",
     "jasmine-core": "~5.8.0",
     "jsdom": "^27.1.0",
     "ng-packagr": "^21.0.1",
