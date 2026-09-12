@@ -24,7 +24,7 @@ export class ElectronService {
   }
 
   get isWindows(): boolean {
-    return this._electron?.platform === 'win32';
+    return this._electron?.platform.includes('win');
   }
 
   get isLinux(): boolean {
@@ -53,10 +53,6 @@ export class ElectronService {
 
   get webFrame(): Electron.WebFrame {
     return this._electron?.webFrame;
-  }
-
-  get clipboard(): Electron.Clipboard {
-    return this._electron?.clipboard;
   }
 
   get crashReporter(): Electron.CrashReporter {
